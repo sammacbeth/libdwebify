@@ -1,0 +1,17 @@
+{
+  "name": "@sammacbeth/libdwebify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "libdwebify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Macbeth",
+  "license": "MIT",
+  "dependencies": {
+    "@sammacbeth/node-dgram": "0.0.3",
+    "browserify-transform-tools": "^1.7.0",
+    "events": "^3.0.0",
+    "readable-stream": "^3.4.0"
+  }
+}
