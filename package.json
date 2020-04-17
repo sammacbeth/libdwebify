@@ -12,6 +12,6 @@
     "@sammacbeth/node-dgram": "0.0.3",
     "browserify-transform-tools": "^1.7.0",
     "events": "^3.0.0",
-    "readable-stream": "^3.4.0"
+    "readable-stream": "^3.6.0"
   }
 }
